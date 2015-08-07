@@ -1,3 +1,9 @@
+sugar-finance-activity (13-0~0tch1) trusty; urgency=medium
+
+  * New upstream release.
+
+ -- Martin Abente Lahaye <tch@sugarlabs.org>  Fri, 07 Aug 2015 15:23:13 -0400
+
 sugar-finance-activity (12-2~0tch2) trusty; urgency=medium
 
   * Exclude mime DB.
